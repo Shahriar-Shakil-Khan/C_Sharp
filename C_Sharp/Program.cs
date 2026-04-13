@@ -14,7 +14,13 @@ namespace C_Sharp
             Console.WriteLine(3 + 8);
             Console.ReadLine();
 
+            string name = "Shakil";
+            Console.WriteLine(name);
+            Console.ReadLine();
+
             
+
+
         }
     }
 }
