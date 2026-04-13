@@ -22,6 +22,10 @@ namespace C_Sharp
             Console.WriteLine(name1);
             Console.ReadLine();
 
+            string name3 = "Shaki";
+            Console.WriteLine(name3);
+            Console.ReadLine();
+
 
 
 
